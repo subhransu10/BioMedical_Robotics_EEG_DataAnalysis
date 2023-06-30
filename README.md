@@ -22,6 +22,6 @@ dataset”
 adding one scalp map for each physiological frequency range (delta 1-4Hz,
 theta 4-8Hz, alpha 8-13Hz, beta 15-25Hz)
 
-## Results
+## RESULTS
 Please go through the [report](https://github.com/subhransu10/BioMedical_Robotics_EEG_DataAnalysis/blob/main/BIO_EEG_ASSIGNMENT_G4.pdf) to find the results.
 
